@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 14,
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnSave": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "turboConsoleLog.logMessagePrefix": "OUTPUT",
+    "color-highlight.markerType": "dot-before",
+    "git.autofetch": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
